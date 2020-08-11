@@ -11,4 +11,4 @@ The permissions on the security is that only people with the admin role can see 
 and only people with the user role can see the student page.
 
 Thank you!
-by Ashenafi Maru
+by Ashenafi
